@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">The Washington Post Trivia</string>
+    <string name="questions_remaining">Questions Remaining</string>
+</resources>
