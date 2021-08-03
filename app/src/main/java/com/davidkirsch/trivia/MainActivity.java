@@ -160,7 +160,7 @@ public class MainActivity extends AppCompatActivity {
         Question question2 = new Question(R.drawable.img_1, "How much does an All-Access Digital monthly subscription cost?", "$5 a month", "$9 a month", "$4 a month", "$10 a month", 2);
         Question question1 = new Question(R.drawable.img_2, "What is the official slogan of The Washington Post?", "Where news never gets old", "Democracy Dies In Darkness", "Expect the news first", "News that hits home", 1);
         Question question3 = new Question(R.drawable.img_3, "The Washington Post first appeared in a Super Bowl commercial in what year? ", "2008", "2000", "2019", "2012", 2);
-        Question question4 = new Question(R.drawable.img_4, "How many Pulitzer Prizes has The Washington Post won? \n(Second-most of any publication)", "25", "48", "56", "69", 3);
+        Question question4 = new Question(R.drawable.img_4, "How many Pulitzer Prizes has The Washington Post won? \n(Second-most of any publication)", "20", "48", "56", "69", 3);
         Question question5 = new Question(R.drawable.img_5, "What year was The Washington Post founded?", "1877", "1903", "1945", "1965", 0);
 
         //adding each instance to questions (arraylist)
